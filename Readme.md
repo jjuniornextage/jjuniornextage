@@ -3,7 +3,7 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/JoileJr">
+  <a href="https://github.com/JoileNextage">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JoileNextage&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img
       height="120em"
