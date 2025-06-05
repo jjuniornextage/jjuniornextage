@@ -1,29 +1,32 @@
-## Olá, meu nome é Joíle!
+# Sobre meu nome: Joíle
 
-### ⚙️ GitHub Analytics
+Olá! Meu nome é **Joíle**, e muita gente acaba se confundindo com a pronúncia.  
+Já ouvi variações como:
 
-<div align="center">
-  <a href="https://github.com/jjuniornextage">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jjuniornextage&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img
-      height="120em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jjuniornextage&theme=dark&hide_border=false"
-      alt="Github Stats"
-    />
-</div>
+- Djow ili  
+- Jolia  
+- Jolie  
+- Djoelí  
+- Julie  
+- Djóili  
 
---- 
+## 🤔 Por que isso acontece?
 
-### 🏆 GitHub Profile Trophy
+Essa confusão é comum por alguns motivos:
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=jjuniornextage&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+- **Grafema vs. Fonema**: As pessoas tentam associar as letras aos sons com base em outros nomes que já conhecem.
+- **Influência de outras línguas**: Nomes parecidos em inglês ou francês (como *Julie* ou *Jolie*) acabam influenciando a leitura.
+- **Leitura rápida**: Às vezes, o acento no **í** passa despercebido, e isso muda completamente a pronúncia.
+
+## ✅ Como pronunciar corretamente
+
+> **Joíle** — lê-se **jo-Í-li**, com acento tônico no "í".
+
+Você pode pensar assim:
+- Rima com **fácil**
+- Soa como: **Jo-Í-li**, com o "í" bem marcado
+
+## 💡 Dica rápida
+
+Se ainda estiver em dúvida, lembre-se:
+> Não é Jolie, nem Julie. É **Joíle**, com identidade e sonoridade únicas. 😄
